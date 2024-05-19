@@ -1,0 +1,2 @@
+# EazzyNews
+school project
